@@ -10,7 +10,7 @@ This is a web application built using PHP, Bootstrap, and MySQL. It provides a p
 - User Login: Registered users can log in using their email and password.
 - Car Listing: The website displays a collection of available cars for sale, including both used and new cars.
 - Car Details: Detailed information about each car is provided, including specifications, price, and contact details of the seller.
-- CRUD Operations: Users can perform CRUD (Create, Read, Update, Delete) operations on car listings.
+- CRUD Operations: Users can perform CRUD (Create, Read, Update, Delete) operations on Users.
 
 ## Installation
 
